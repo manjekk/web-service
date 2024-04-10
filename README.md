@@ -1,1 +1,1 @@
-# web-service
+This repository exists to display progress in the course "Developing a Web Service in Java" on Stepik
